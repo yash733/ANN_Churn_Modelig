@@ -1,6 +1,11 @@
 # ANN_Churn_Modelig
 data set --> https://drive.google.com/file/d/1ZRXIpzLhbtBccjauzROH5AuY3aZl7faW/view
 
+## Application
+![image](https://github.com/user-attachments/assets/d2629a04-2cb3-4270-a83c-e8b9ceb38065)
+![image](https://github.com/user-attachments/assets/4aa2485e-55a1-4315-be93-664370e3da1b)
+
+
 ### Neural Network Creation -->
 ![image](https://github.com/yash733/ANN_Churn_Modelig/assets/100533686/dcc7fa44-8828-4cc1-b98f-bc8ddd5bd8d2)
 ![image](https://github.com/yash733/ANN_Churn_Modelig/assets/100533686/f87ecc84-3354-4dc3-b8dc-cf027bbed748)
