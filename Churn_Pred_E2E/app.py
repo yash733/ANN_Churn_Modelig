@@ -7,8 +7,8 @@ def get_data(fro_m):
     with open(fro_m, 'rb') as file:
         return pickle.load(file)
 
-gender = get_data('tran_gen.pkl')
-geography = get_data('tran_Geo.pkl')
+gender = get_data('Churn_Pred_E2E\tran_gen.pkl')
+geography = get_data('Churn_Pred_E2E\tran_Geo.pkl')
 
 # Load the trained model
 import tensorflow as tf # type: ignore
