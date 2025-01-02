@@ -1,7 +1,7 @@
 # ANN_Churn_Modelig
 data set --> https://drive.google.com/file/d/1ZRXIpzLhbtBccjauzROH5AuY3aZl7faW/view
 
-## Application
+## Application --> https://gkkaq8nrkgk9prc57dioia.streamlit.app
 ![image](https://github.com/user-attachments/assets/d2629a04-2cb3-4270-a83c-e8b9ceb38065)
 ![image](https://github.com/user-attachments/assets/4aa2485e-55a1-4315-be93-664370e3da1b)
 
